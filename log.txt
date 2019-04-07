@@ -1,0 +1,59 @@
+commit 7e774c24e610db4c7f5e2f04bbe34a29f4cbaf1f
+Author: darren <darrengardner12@gmail.com>
+Date:   Sat May 6 13:13:46 2017 -0400
+
+    Created second step of Move method
+
+commit 5ecea297b90961e5b44abfccf884d5074b9b056f
+Author: darren <darrengardner12@gmail.com>
+Date:   Sat May 6 13:05:17 2017 -0400
+
+    Created first step of move method
+
+commit 4dd18005451c9a56f141defb6dc097f0d4577eb1
+Author: darren <darrengardner12@gmail.com>
+Date:   Sat Apr 22 22:45:03 2017 -0400
+
+    Finished Commenting
+
+commit 85313a508f24b1af7f0419a4b64ca3436f15a6c8
+Author: darren <darrengardner12@gmail.com>
+Date:   Sat Apr 22 22:41:19 2017 -0400
+
+    Corrected CarbonCopy, Fixed getSuccessors, got isWinnable to work correctly for 7a through 9c.
+
+commit 23444e67d0c84ebc33f02e1036b50ddf317dde0a
+Author: darren <darrengardner12@gmail.com>
+Date:   Sat Apr 22 21:08:33 2017 -0400
+
+    updated carbonCopy method in Board, edited isWinnable, passes test1b, loops on test1a
+
+commit d5c5f386ae6a81eea893d47c0914fd91cce753a4
+Author: darren <darrengardner12@gmail.com>
+Date:   Sat Apr 22 19:06:57 2017 -0400
+
+    First Draft of isWinnable, getSuccessors helper created
+
+commit e640d406ecb7eb9fb24a3e96049e574cadcc0320
+Author: darren <darrengardner12@gmail.com>
+Date:   Sat Apr 22 08:07:49 2017 -0400
+
+    First Draft of isWinnable, getSuccessors helper created
+
+commit a222f317abc3090ce462c9a4540876da9bc00b05
+Author: darren <darrengardner12@gmail.com>
+Date:   Fri Apr 7 20:08:20 2017 -0400
+
+    Finished allLegalMoves
+
+commit 5176675eb1930bdfff2d96121cef2fadc164148c
+Author: darren <darrengardner12@gmail.com>
+Date:   Wed Mar 22 22:51:11 2017 -0400
+
+    Finished Project
+
+commit 2c54f326bf0f14775ab53f5803e992cfa8099df3
+Author: darren <darrengardner12@gmail.com>
+Date:   Fri Mar 10 10:42:58 2017 -0500
+
+    Finished In-Lab

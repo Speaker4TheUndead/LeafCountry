@@ -1,0 +1,56 @@
+commit 999bb80d776eacd450418a928a519c150cf6c741
+Author: Speaker4Undead <jchance.is2cool@gmail.com>
+Date:   Sat May 6 17:14:08 2017 -0400
+
+    Delete useless comments.
+
+commit 98a61a5bc4c29eedfb72deb87eafe0404004c06f
+Author: Speaker4Undead <jchance.is2cool@gmail.com>
+Date:   Sat May 6 17:13:26 2017 -0400
+
+    Finished Commenting getMoves Method
+
+commit 217cf0bcd0f8fbc3460619bba2d2d13e6f56e72a
+Author: Speaker4Undead <jchance.is2cool@gmail.com>
+Date:   Sat May 6 16:41:51 2017 -0400
+
+    THis kinda works now.
+
+commit 5f9b13b22d1de14e2a91c538f37a16cb6272af3f
+Author: Speaker4Undead <jchance.is2cool@gmail.com>
+Date:   Sat Apr 8 17:34:38 2017 -0400
+
+    Refactored everything so the name of the player class was correct.
+
+commit d4ca3f798e92c32d668198ce9bc757146d82b68a
+Author: Speaker4Undead <jchance.is2cool@gmail.com>
+Date:   Sat Apr 8 17:31:20 2017 -0400
+
+    Commented Everything of Importance.
+    Created 4 new Classes.
+    Should be done.
+
+commit a710863d449abbe1d17932f766c55ddfcef3ab4e
+Author: Speaker4Undead <jchance.is2cool@gmail.com>
+Date:   Sat Apr 8 12:42:49 2017 -0400
+
+    No real big changes, just keeping things current.
+
+commit 9db283505ea615ceb959bb7804938189f9487359
+Author: Speaker4Undead <jchance.is2cool@gmail.com>
+Date:   Thu Apr 6 19:47:58 2017 -0400
+
+    Created a copy constructor for Board Class, a getter for actualSize, and a method to create a deepcopy of nodes[][].
+    Also created a new child of the Node Class entitled Proxy Node. It is what we will flood the board with to find the shortest path.
+
+commit 69deae34384a2cdaf103715aab710e73bb165de5
+Author: Speaker4TheUndead <jchance.is2cool@gmail.com>
+Date:   Thu Apr 6 15:11:16 2017 -0400
+
+    Added Implementation
+
+commit 6c0e54972c9a1228d7c2d37ebe8baefd7f813c4d
+Author: Speaker4TheUndead <jchance.is2cool@gmail.com>
+Date:   Mon Mar 27 16:55:53 2017 -0400
+
+    intitCommit
